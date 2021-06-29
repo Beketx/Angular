@@ -1,0 +1,5 @@
+<div class="paper" *ngFor="let paper of componentNews">
+  {{paper.title}}
+</div>
+
+<button class="paper" (click)="newsService.addNews()">Add News</button>

@@ -1,0 +1,33 @@
+export const HEROES = [{
+  id:1,
+  name:'Windstorm'
+},
+  {
+    id:2,
+    name:'Spider-man'
+  },
+  {
+    id:3,
+    name:'Batman'
+  },
+  {
+    id:4,
+    name:'Superman'
+  },
+  {
+    id:5,
+    name:'Hulk'
+  },
+  {
+    id:6,
+    name:'Venom'
+  },
+  {
+    id:7,
+    name:'Ironman'
+  },
+  {
+    id:8,
+    name:'WonderWoman'
+  },
+]
